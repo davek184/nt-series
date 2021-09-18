@@ -14,7 +14,7 @@ NOTE:
 * I didn't update the Schematic for the changes I made because I have no idea on how to do that and everytime I tried it caused more problems
 
 Layouts supported
-TODO: Add Layouts here
+![Layouts](https://i.imgur.com/GH6EuRG.png)
 
 More photos here: https://imgur.com/a/Q7dKFkK
 
