@@ -1,6 +1,4 @@
-Changes from main nt-980
-
-Changes from nt-980
+Changes from original nt-980
 * Bottom row alternate layouts
 * Stepped caps lock support
 * Rotated numpad plus and enter keys
