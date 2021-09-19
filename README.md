@@ -16,6 +16,9 @@ NOTE:
 Layouts supported
 ![Layouts](https://i.imgur.com/GH6EuRG.png)
 
+PCB
+![PCB](https://i.imgur.com/BCvTQmF.png)
+
 More photos here: https://imgur.com/a/Q7dKFkK
 
 Use at your own risk.
