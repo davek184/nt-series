@@ -17,8 +17,9 @@ Layouts supported
 ![Layouts](https://i.imgur.com/GH6EuRG.png)
 
 PCB
-![PCB](https://i.imgur.com/BCvTQmF.png)
+![PCB-Back](https://i.imgur.com/86oj3Af.png)
+![PCB-Front](https://i.imgur.com/tyPyVWz.png)
 
-More photos here: https://imgur.com/a/Q7dKFkK
+Actual photos here: https://imgur.com/a/Q7dKFkK
 
 Use at your own risk.
