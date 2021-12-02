@@ -1,0 +1,1 @@
+Replacement USB-Mini daughterboard
