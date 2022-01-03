@@ -8,6 +8,10 @@ Need:
 
 I printed in ABS with 100% fill via TreatStock.com
 
-The USB plate adapter is ment to work with the universal daughterboard project.  It works okay but could use a little more refinement.  i have sent out for v5 to be made which slightly tweaks the depth. 
+USB plate adapter
+* For using a universal daughterboard
+* Requires 2x or 4x m2 6mm screws and nuts to secure the daughterboard to the brackets
+* Requires foam about 2.5mm thick to sit under the plate
+* Washers: 2x to keeps the plate secure to the Heavy-9 backplate (size SAE #6 or M4)
 
-Use at your own risk!
+Images: https://imgur.com/a/Q7dKFkK
