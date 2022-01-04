@@ -1,8 +1,10 @@
-# nt-980
+# Description
 
-This forks the nt-980 to account for the following layouts.  It combines Kailh hotswap sockets and though holes for switches where hotswaps wouldn't work.  It uses the same firmware as the nt-980 as no switches were added or removed.
+This forks the nt-980 to account for the following layouts.  It combines Kailh hotswap sockets and though holes for switches where hotswaps wouldn't work.  This is admittedly a bit weird but what I wanted to make.
 
-Changes from nt-980
+It uses the same firmware as the nt-980 as no switches were added or removed.
+
+## Changes from nt-980
 * Bottom row alternate layouts
 * Stepped caps lock support
 * Rotated numpad plus and enter keys
@@ -14,13 +16,13 @@ Changes from nt-980
 
 It does work with the stock plate but only for the original layout.  Other layouts would require modding the plate or getting a new one.
 
-NOTE: 
+## NOTE: 
 * **The JST connector uses a different PIN arrangement then the original Leopold daughter/middle board pay attention to the cable used if going for this connection method!**
 * I didn't update the Schematic for the changes I made because I have no idea on how to do that and everytime I tried it caused more problems
 
 ![PCB](https://i.imgur.com/qRTXp2R.png)
 
-Layouts supported (keys in red are soldered rest are Kailh hotswap sockets)
+## Layouts supported (keys in red are solder through holes rest are Kailh hotswap sockets)
 ![Layouts](https://i.imgur.com/V9WHENf.png)
 
 More photos here: https://imgur.com/a/jotWOC0
