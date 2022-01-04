@@ -4,7 +4,7 @@ Replacement USB-Mini daughterboard for FC980m/c can be used with the stock case 
 
 | LCSC part # | Description   | Value | Package  | Amount |
 | ----------- | ------------- | ----- | -------- | ------:|
-| C145778     | Capacitor     |       | SMD/TH   | 1      |
+| C145778     | USB           |       | SMD/TH   | 1      |
 | C160404     | Connector     |       | SMD      | 1      |
 
 ## Cable
