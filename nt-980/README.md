@@ -3,8 +3,8 @@
 Fork of nt-980 from [evyd13](https://github.com/evyd13/nt-series/tree/main/nt-980).  Thank you evyd13 without you I would have been lost to do any of these changes!
 
 * PCB
-  * [Hotswap](https://github.com/davek184/nt-series/tree/main/nt-980/pcb-hotswap)
-  * [Solder](https://github.com/davek184/nt-series/tree/main/nt-980/pcb-solder)
+  * [Hotswap](https://github.com/davek184/nt-series/tree/main/nt-980/hotswap)
+  * [Solder](https://github.com/davek184/nt-series/tree/main/nt-980/solder)
   * [Daughterboard USB-c](https://github.com/davek184/nt-series/tree/main/nt-980/pcb-daughterboard-usb-c)
   * [Daughterboard USB-Mini](https://github.com/davek184/nt-series/tree/main/nt-980/pcb-daughterboard-usb-mini)
 * [Plate](https://github.com/davek184/nt-series/tree/main/nt-980/plate)
