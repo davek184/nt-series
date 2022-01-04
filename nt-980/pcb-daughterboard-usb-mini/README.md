@@ -15,7 +15,4 @@ This daughterboard uses a different connector then the OEM one. Suggest starting
 
 [Photo of cable]
 
-[Photos]
 ![Front/Back](https://i.imgur.com/MW56OEf.jpg)
-Stock case 
-heavy-9
