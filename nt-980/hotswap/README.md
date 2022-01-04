@@ -18,7 +18,7 @@ It does work with the stock plate but only for the original layout.  Other layou
 
 ## NOTE: 
 * **The JST connector uses a different PIN arrangement then the original Leopold daughter/middle board pay attention to the cable used if going for this connection method!**
-* I didn't update the Schematic for the changes I made because I have no idea on how to do that and everytime I tried it caused more problems
+* I didn't update the Schematic for the changes made because I have no idea on how to do that and everytime I tried it caused more problems
 
 ![PCB](https://i.imgur.com/qRTXp2R.png)
 
