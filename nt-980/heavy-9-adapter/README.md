@@ -14,4 +14,6 @@ USB plate adapter
 * Requires foam about 2.5mm thick to sit under the plate
 * Washers: 2x to keeps the plate secure to the Heavy-9 backplate (size SAE #6 or M4)
 
-Images: https://imgur.com/a/Q7dKFkK
+Rubber padding is backing on mouse pad.  Stack of rubber pads I put under the spacebar so there is not too much flex.
+![Heavy-9Adapters](https://i.imgur.com/NsoqZxm.jpg)
+More Photos: https://imgur.com/a/Q7dKFkK
