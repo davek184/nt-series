@@ -1,5 +1,7 @@
 Replacement USB-Mini daughterboard for FC980m/c can be used with the stock case or Norbauer Heavy-9.
 
+Screws: 4x m2 3.5mm (uncoated!)
+
 ## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |
