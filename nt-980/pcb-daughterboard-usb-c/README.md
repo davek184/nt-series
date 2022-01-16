@@ -2,6 +2,8 @@ Replacement USB-C daughterboard for FC980m/c can be used with the stock case or 
 
 Screws: 4x m2 3.5mm (uncoated!)
 
+Photo Album and other alternatives for USB-C mod: https://imgur.com/a/8szWUhl
+
 ## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |
