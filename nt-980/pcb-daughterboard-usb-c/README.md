@@ -4,6 +4,8 @@ Screws: 4x m2 3.5mm (uncoated!)
 
 Photo Album and other alternatives for USB-C mod: https://imgur.com/a/8szWUhl
 
+Note since 2 resistors are not included a USB C to C cable will not work (A to C cables work properly).  Will revise in a future version.
+
 ## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |
