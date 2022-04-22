@@ -15,9 +15,11 @@ Interactive BOM is here must be downloaded to run.
 | ----------- | ------------- | ----- | -------- | ------:|
 | C165948     | USB           |       | SMD/TH   | 1      |
 | C160404     | Connector     |       | SMD      | 1      |
-| C261942     | Fuse	      |       | SMD      | 1      |
+| C261942     | Fuse	        |       | SMD      | 1      |
 | C212411     | Resistor      | 5.1   | SMD      | 2      |
 | C7519       | ESD           |       | SMD      | 1      |
+
+![Front/Back](https://i.imgur.com/EoYm9La.jpg)
 
 ## Cable
 
@@ -25,4 +27,4 @@ This daughterboard uses a different connector then the OEM one. Suggest starting
 
 ![cable](https://i.imgur.com/f8iwrel.jpg)
 
-![Front/Back](https://i.imgur.com/EoYm9La.jpg)
+
