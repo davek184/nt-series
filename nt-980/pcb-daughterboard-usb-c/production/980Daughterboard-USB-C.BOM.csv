@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+Connector USB,J1,SMD,C165948
+Connector Qwiic,J2,SMD,C160404
+Fuse,F1,SMD,C261942
+Resistor,"R1,R2",SMD,C212411
+ESD,U1,SMD,C7519

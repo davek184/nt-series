@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+F1,Polyfuse_Small,F_0805,130.663,-12.299,45,bottom
+J1,TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,121.525,0.06,0,bottom
+J2,ai03_ud,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,141.331,-8.489,-90,bottom
+R1,5.1k,R_0805,117.525,-12.045,-90,bottom
+R2,5.1k,R_0805,125.525,-12.045,-90,bottom
+U1,USBLC6-2SC6,USBLC6-2SC6 ,121.525,-12.195,90,bottom
