@@ -1,6 +1,8 @@
 # nt-660 PCB
 
-Forked from Evyd13 with changes listed below.
+Forked from Evyd13 with changes listed below with the goal to fit in the Norbauer heavy-6 case.  Thought none of the changes made will affect fitting in a standard fc660m usb-mini case.
+
+(Do not forget the daughterboard in the subdirectory)
 
 # Changes
 - Added JST Connector for USB
