@@ -2,4 +2,8 @@
 
 USB-C daughterboard for Norbauer's Heavy-6 case. 
 
-![render](/sssets/daughterboard.png)
+![render](assets/daughterboard.png)
+
+# Manufacturing:
+ - Files in Manufacturing folder are setup for JLCPCB
+ - Note: Choose Specify a location under Remove order number
