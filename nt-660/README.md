@@ -13,4 +13,6 @@ Forked from Evyd13 with changes listed below with the goal to fit in the Norbaue
 DO NOT populate the mini-usb connector if planning to use in Norbauer heavy-6 case!
 
 # Render
-[TODO]
+![Render](https://i.imgur.com/WXCdAlT.jpg)
+
+More Photos in heavy-6: https://imgur.com/a/MOReMm4
