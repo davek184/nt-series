@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "dk210", 
+    "url": "", 
+    "maintainer": "evyd13", 
+    "layouts": {
+        "LAYOUT_all": {
+            "layout": [
+                {"label":"k00", "x":0, "y":0}
+            ]
+        }
+    }
+}
