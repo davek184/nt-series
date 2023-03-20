@@ -2,10 +2,8 @@ Replacement USB-C daughterboard for FC980m/c can be used with the stock case or 
 
 _Note stock case requires filing USB opening and cable is tight._
 
-## Revision 1.2
-- ESD protection 
-- CC1 & CC2 resistors to support USB-C to C cables
-- Slightly modified screw holes
+## Revision 1.3
+- Added Molex Pico-Ezmate connector option.  Note there are 2 of these one on the back that is optional.
 
 ## BOM
 
@@ -16,6 +14,7 @@ _Note stock case requires filing USB opening and cable is tight._
 | C261942     | Fuse	        |       | SMD      | 1      |
 | C212411     | Resistor      | 5.1   | SMD      | 2      |
 | C7519       | ESD           |       | SMD      | 1      |
+| C528030     | Connector     |       | SMD      | 2      | 
 
 ![Front/Back](https://i.imgur.com/EoYm9La.jpg)
 
